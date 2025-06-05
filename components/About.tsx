@@ -14,8 +14,8 @@ export default function About() {
                             <img src="/signature.png" alt="" />
                             <div className='border-1 h-[50px] text-gray-500' />
                             <div className=''>
-                                <h1 className='text-xl font-semibold'>Rodrigo Freitas</h1>
-                                <p className='text-sm text-gray-500'>Co. Founder</p>
+                                <h1 className='text-xl font-semibold text-white'>Rodrigo Freitas</h1>
+                                <p className='text-sm lg:text-gray-500 text-white'>Co. Founder</p>
                             </div>
                         </div>
                     </article>

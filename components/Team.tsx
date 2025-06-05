@@ -16,8 +16,8 @@ export default function Team() {
                     <article className='mt-20 flex flex-col gap-10 lg:flex-row'>
                         <motion.div className='bgTeam1  h-[500px] relative overflow-hidden lg:w-[25%]' initial="hidden" whileHover="visible">
                             <div className='flex w-full h-full flex-col justify-end'>
-                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold'>Eduardo Sousa</h1>
-                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase'>Advogado</p>
+                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold text-white'>Eduardo Sousa</h1>
+                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase text-white'>Advogado</p>
                             </div>
                             {/* REDES SOCIAIS */}
                             <motion.div className='absolute flex flex-col gap-4 right-4 bottom-4' variants={{
@@ -32,8 +32,8 @@ export default function Team() {
 
                         <motion.div className='bgTeam1  h-[500px] relative overflow-hidden lg:w-[25%]' initial="hidden" whileHover="visible">
                             <div className='flex w-full h-full flex-col justify-end'>
-                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold'>Eduardo Sousa</h1>
-                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase'>Advogado</p>
+                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold text-white'>Eduardo Sousa</h1>
+                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase text-white'>Advogado</p>
                             </div>
                             {/* REDES SOCIAIS */}
                             <motion.div className='absolute flex flex-col gap-4 right-4 bottom-4' variants={{
@@ -48,8 +48,8 @@ export default function Team() {
 
                         <motion.div className='bgTeam1  h-[500px] relative overflow-hidden lg:w-[25%]' initial="hidden" whileHover="visible">
                             <div className='flex w-full h-full flex-col justify-end'>
-                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold'>Eduardo Sousa</h1>
-                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase'>Advogado</p>
+                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold text-white'>Eduardo Sousa</h1>
+                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase text-white'>Advogado</p>
                             </div>
                             {/* REDES SOCIAIS */}
                             <motion.div className='absolute flex flex-col gap-4 right-4 bottom-4' variants={{
@@ -64,8 +64,8 @@ export default function Team() {
 
                         <motion.div className='bgTeam1  h-[500px] relative overflow-hidden lg:w-[25%]' initial="hidden" whileHover="visible">
                             <div className='flex w-full h-full flex-col justify-end'>
-                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold'>Eduardo Sousa</h1>
-                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase'>Advogado</p>
+                                <h1 className='bg-BlueDark pt-4 px-4 uppercase font-semibold text-white'>Eduardo Sousa</h1>
+                                <p className='bg-BlueDark pb-4 px-4 text-sm uppercase text-white'>Advogado</p>
                             </div>
                             {/* REDES SOCIAIS */}
                             <motion.div className='absolute flex flex-col gap-4 right-4 bottom-4' variants={{

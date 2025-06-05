@@ -14,8 +14,8 @@ export default function Contact() {
                         <h1 className='text-white text-4xl font-semibold text-center lg:text-left mt-4'>Estamos à sua disposição</h1>
                         <p className='text-white text-center mt-4 lg:text-left'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero dolorum iusto, quasi totam reprehenderit aspernatur nostrum, harum excepturi aliquid illo sit quaerat soluta ea dicta incidunt quam ratione culpa numquam!</p>
                       <div className='mt-6 flex flex-col gap-4'>
-                            <p className='flex items-center gap-4 uppercase'><IoIosPin className='bg-BlueDark text-white text-4xl px-2' />Avenida das Nações unidas, 276 - Bela Vista. São Paulo - SP</p>
-                            <p className='flex items-center gap-4 uppercase'><FaPhone className='bg-BlueDark text-white text-4xl px-2' />11 1234 - 1234</p>
+                            <p className='flex items-center gap-4 uppercase text-white'><IoIosPin className='bg-BlueDark text-white text-4xl px-2' />Avenida das Nações unidas, 276 - Bela Vista. São Paulo - SP</p>
+                            <p className='flex items-center gap-4 uppercase text-white'><FaPhone className='bg-BlueDark text-white text-4xl px-2' />11 1234 - 1234</p>
                         </div>
 
                         <div className='flex justify-center mt-8 gap-4 lg:justify-start'>

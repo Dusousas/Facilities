@@ -51,7 +51,7 @@ export default function Feedback() {
                 <article className='bgFeedback w-full h-[600px] relative lg:w-[45%]'>
                     <div className='absolute bottom-8 left-8 bg-[#364052]/50 backdrop-blur-xl px-10 py-10'>
                         <h1 className='uppercase font-semibold text-white text-5xl'>100+</h1>
-                        <p className='text-sm uppercase mt-2'>Clientes felizes</p>
+                        <p className='text-sm uppercase mt-2 text-white'>Clientes felizes</p>
                     </div>
                 </article>
 

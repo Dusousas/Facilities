@@ -5,7 +5,7 @@ import Button from './subc/Button';
 export default function Main() {
     return (
         <>
-            <section className='bgMain relative w-full top-0'>
+            <section id='home' className='bgMain relative w-full top-0'>
                 <div className='absolute inset-0 bg-black/25' />
                 <div className='maxW relative z-10 h-full'>
                     <article className='h-full w-full flex flex-col items-center justify-center lg:items-start lg:w-[70%]'>
@@ -15,7 +15,7 @@ export default function Main() {
                             <Button />
                         </div>
 
-                        <div className=' absolute bottom-0 right-0 bg-[#364052]/50 backdrop-blur-xl py-2 lg:w-[500px] lg:px-10 lg:py-10'>
+                        <div className='absolute bottom-0 right-0 bg-[#364052]/50 backdrop-blur-xl py-2 lg:w-[500px] lg:px-10 lg:py-10'>
                             <div className='flex justify-center lg:justify-start'>
                                 <img className='w-[40px] lg:w-[80px]' src="/icon-1.svg" alt="" />
                             </div>

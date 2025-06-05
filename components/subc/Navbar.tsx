@@ -21,7 +21,7 @@ export default function Navbar() {
                     <li><a href="#home">Início</a></li>
                     <li><a href="#about">Sobre</a></li>
                     <li><a href="#services">Serviços</a></li>
-                    <li><a href="#contato">Contato</a></li>
+                    <li><a href="#contact">Contato</a></li>
                 </ul>
             </nav>
 
@@ -45,7 +45,7 @@ export default function Navbar() {
                         <li><a href="#home" onClick={() => setIsOpen(false)}>Início</a></li>
                         <li><a href="#about" onClick={() => setIsOpen(false)}>Sobre</a></li>
                         <li><a href="#services" onClick={() => setIsOpen(false)}>Serviços</a></li>
-                        <li><a href="#contato" onClick={() => setIsOpen(false)}>Contato</a></li>
+                        <li><a href="#contact" onClick={() => setIsOpen(false)}>Contato</a></li>
                     </ul>
                 </nav>
             </div>

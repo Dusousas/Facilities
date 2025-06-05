@@ -5,7 +5,7 @@ import ButtonDark from './subc/ButtonDark';
 export default function About() {
     return (
         <>
-            <section className='bg-BlueLight py-20'>
+            <section id='about' className='bg-BlueLight py-20'>
                 <div className='maxW flex flex-col items-center justify-center gap-20 lg:flex-row'>
 
                     <article className='max-w-[400px] relative lg:w-1/2'>
